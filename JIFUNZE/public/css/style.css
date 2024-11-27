@@ -1,0 +1,15 @@
+.lectpermission
+{
+    cursor: pointer;
+}
+.lectpermission:hover
+{
+    background-color: #dddddd;
+    transition: 0.4s;
+    /* justify-content: ; */
+}
+
+/* #htmlData
+{
+    display: none;
+} */
